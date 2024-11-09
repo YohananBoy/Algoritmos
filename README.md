@@ -1,4 +1,11 @@
-﻿# Algoritmos-2024
-Atividades do capítulo 5 ao capítulo 9 🤓
+<h1 align="left">Algoritmos 2024</h1>
 
-<img scr = "imagem_2024-11-08_211555380.png">
+###
+
+<h3 align="left">Atividades do capítulo 5 ao 9</h3>
+
+###
+
+<img align="left" height="300" src="https://i.imgur.com/yKSQN2a.png"  />
+
+###
